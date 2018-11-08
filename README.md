@@ -6,7 +6,9 @@ OpenDevSecOps is a non-profit on a mission to deliver highly-resilient, readily-
 
 ## Sponsors
 
-This project is not possible without the generous sponsorship of the following companies and organisations:
+OpenDevSecOps is not possible without the generous sponsorship of the following companies and organisations:
 
-* [Websecurify](https://websecurify.com)
-* [GNUCITIZEN](https://gnucitizen.org)
+* [Websecurify](https://websecurify.com) - Information Security Toolkit
+* [GNUCITIZEN](https://gnucitizen.org) - Information Security Think Tank
+
+_Contact us if you want to support further development of OpenDevSecOps._
