@@ -4,6 +4,12 @@
 
 OpenDevSecOps is a non-profit on a mission to deliver highly-resilient, readily-available and free security solutions to organisations large and small.
 
+## Elsewhere
+
+You can also find us hanging out at the following places:
+
+* [Twitter](https://twitter.com/opendevsecops)
+
 ## Sponsors
 
 OpenDevSecOps is not possible without the generous sponsorship of the following companies and organisations:
