@@ -2,7 +2,7 @@
 
 # OpenDevSecOps
 
-OpenDevSecOps is a non-profit on a mission to deliver highly-resilient, readily-available and free security solutions to organisations large and small.
+OpenDevSecOps is on a mission to deliver highly-resilient, readily-available and free security solutions to organisations large and small.
 
 ## Getting Started
 
