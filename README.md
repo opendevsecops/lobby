@@ -9,12 +9,12 @@ OpenDevSecOps is a non-profit on a mission to deliver highly-resilient, readily-
 You can also find us hanging out at the following places:
 
 * [Twitter](https://twitter.com/opendevsecops)
+* [Slack](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDYyMTE4OTMzNjk2LTMzNGU0MWIwYWRlM2U3ZGEwM2YyYTM3Njg1MzIwODc2ZDgwNGRhNmRjYjU2N2Y1MjNiYWM4ZWMxNWE1OWM2YjI) - link expires
 
 ## Sponsors
 
 OpenDevSecOps is not possible without the generous sponsorship of the following companies and organisations:
 
 * [Websecurify](https://websecurify.com) - Information Security Toolkit
-* [GNUCITIZEN](https://gnucitizen.org) - Information Security Think Tank
 
 _Contact us if you want to support further development of OpenDevSecOps._
