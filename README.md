@@ -4,6 +4,14 @@
 
 OpenDevSecOps is a non-profit on a mission to deliver highly-resilient, readily-available and free security solutions to organisations large and small.
 
+## Getting Started
+
+If you come to this place you are most certainly interested in what we are building. Here are a few ways to get started:
+
+* You are welcome to do any changes your heart desires. Simply fork the code and make a pull request.
+* Join the team and make your own projects. The Slack channel is a great way to reach us.
+* Simple join the conversation. Sharing is caring and we would love to hear from you.
+
 ## Elsewhere
 
 You can also find us hanging out at the following places:
