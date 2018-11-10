@@ -10,6 +10,7 @@ If you come to this place you are most certainly interested in what we are build
 
 * You are welcome to do any changes your heart desires. Simply fork the code and make a pull request.
 * Join the team and make your own projects. The Slack channel is a great way to reach us.
+* Try to meet to team. We are social beings.
 * Simple join the conversation. Sharing is caring and we would love to hear from you.
 
 ## Elsewhere
