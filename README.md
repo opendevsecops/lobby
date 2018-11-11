@@ -19,7 +19,7 @@ If you come to this place you are most certainly interested in what we are build
 You can also find us hanging out at the following places:
 
 * [Twitter](https://twitter.com/opendevsecops)
-* [Slack](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDYyMTE4OTMzNjk2LTMzNGU0MWIwYWRlM2U3ZGEwM2YyYTM3Njg1MzIwODc2ZDgwNGRhNmRjYjU2N2Y1MjNiYWM4ZWMxNWE1OWM2YjI) - (link expires)
+* [Slack](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDYyMTE4OTMzNjk2LTMzNGU0MWIwYWRlM2U3ZGEwM2YyYTM3Njg1MzIwODc2ZDgwNGRhNmRjYjU2N2Y1MjNiYWM4ZWMxNWE1OWM2YjI)
 
 ## Sponsors
 
