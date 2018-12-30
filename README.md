@@ -16,7 +16,7 @@ If you come to this place you are most certainly interested in what we are build
 
 ## Repositories
 
-We contribute actively to the following repostories:
+We actively contribute to the following repostories:
 
 * [OpenDevSecOps Terraform](https://registry.terraform.io/modules/opendevsecops)
 * [OpenDevSecOps DockerHub](https://hub.docker.com/u/opendevsecops)
