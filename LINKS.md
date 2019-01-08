@@ -1,1 +1,3 @@
 * [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
+* [Effective Security Pipeline
+](https://alex.kaskaso.li/post/effective-security-pipeline)
