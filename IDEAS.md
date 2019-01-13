@@ -66,6 +66,8 @@ This is our bread and butter.
 
 **API Honeytokens** - probably a serverless function that once invoked will trigger an allert. The idea is that you can embed the function in AWS API gateway. If someone is trying to check your API you will be imidiatelly notified. This could also be linked to other actions like if we get the offender blocked or throttled.
 
+**Binaryalert** - like airbnb's binaryalert but without the drama. The idea of automatically detecting malicious files in s3 bucket is pretty generic and something that can be easily done with a bit of automation.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
