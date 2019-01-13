@@ -64,6 +64,8 @@ This is our bread and butter.
 
 **Insider Threat Detection** - infrastructure to help you spread breadcrumbs like URLS, emails and what not in order to detect insider threat attacks. Might help if we can also schedule how we want to desciminate the breadcrumbs so that everything is fully automated.
 
+**API Honeytokens** - probably a serverless function that once invoked will trigger an allert. The idea is that you can embed the function in AWS API gateway. If someone is trying to check your API you will be imidiatelly notified. This could also be linked to other actions like if we get the offender blocked or throttled.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
