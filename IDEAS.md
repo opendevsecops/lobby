@@ -58,6 +58,8 @@ This is our bread and butter.
 
 **GitHub Search** - a tool to search github for intelligence. GitHub is full of useful stuff. Automating the processes for finding useful inteligence on GitHub will be really interesting and could echo great rewards.
 
+**VULNMAN** - cloud ready vulnerability managment solution. Might not be worthed considering that you can manage this from Jira or something similar.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
