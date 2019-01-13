@@ -2,17 +2,18 @@
 
 # OpenDevSecOps
 
-OpenDevSecOps is on a mission to deliver highly-resilient, readily-available and free security solutions to organisations large and small.
+OpenDevSecOps is on a mission to deliver highly-resilient, readily-available and free defensive and offensive devops security solutions to organisations large and small.
 
 ## Getting Started
 
 If you come to this place you are most certainly interested in what we are building. Here are a few ways to get started:
 
+* All solutions are open source and free to use.
 * You are welcome to do any changes your heart desires. Simply fork the code and make a pull request.
-* Join the team and make your own projects. The Slack channel is a great way to reach us.
+* Join the team and make your own projects. The Slack [channel](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDg5NTAyNzAwNDk3LTBiM2VkMmU5MjllMTNhMTEyMzlmZDJlZGMyNDIzOTQzNzdhOTczODBiOTlhY2RhZDM0NmM4MjE1MTA0MTM0OGI) is a great way to reach us.
 * You have something interesting to say? You can contribute to our [blog](https://github.com/opendevsecops/www).
 * Try to meet to team. We are social beings.
-* Simple join the conversation. Sharing is caring and we would love to hear from you.
+* Simply join the conversation. Sharing is caring and we would love to hear from you.
 
 ## Repositories
 
@@ -32,6 +33,7 @@ You can also find us hanging out at the following places:
 
 OpenDevSecOps is not possible without the generous sponsorship of the following companies and organisations:
 
+* [SecApps](https://secapps.org) - Online Security Tools
 * [Websecurify](https://websecurify.com) - Information Security Toolkit
 
 _Contact us if you want to support further development of OpenDevSecOps._
