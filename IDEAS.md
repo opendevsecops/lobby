@@ -52,6 +52,8 @@ This is our bread and butter.
 
 **AWS++** - better AWS tools. Perhaps base it on top of SecApps awesome UI pr use Pown.js terminal UI features.
 
+**AWS Config Rules** - a collection of extended AWS config rules. The more the better.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
