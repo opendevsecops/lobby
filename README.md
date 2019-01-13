@@ -1,4 +1,5 @@
 [![Follow on Twitter](https://img.shields.io/twitter/follow/opendevsecops.svg?logo=twitter)](https://twitter.com/opendevsecops)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/277fadaed0e340e98b044c9b924f9bfa)](https://www.codacy.com/app/OpenDevSecOps/lobby?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=opendevsecops/lobby&amp;utm_campaign=Badge_Grade)
 
 # OpenDevSecOps
 
