@@ -77,3 +77,5 @@ You cannot defense without understanding offensive.
 **VPN/SSH/Proxy Hopper** - simple container infrastructure to hop into a VPC remotely. This can be used to gain direct access to a well guarded network.
 
 **Infector** - a fully automated tool to propagate on top of cloud environments. This is for demo purposes only. This idea is heavily inspired by [Monkey](https://github.com/guardicore/monkey). The difference is that it should be written in Go instead of python so that it is easier to copy - also better cross-platform. If time allows, rust will be welcome too.
+
+**Creds Collector** - run a low cost search infrastructure for dumps of previously discloused data breaches. Sometimes it is useful to have that level of intelligence although it is technically crossing the line.
