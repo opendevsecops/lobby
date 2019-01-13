@@ -6,6 +6,6 @@ A curated list of docs, tutorials and other training information about DevSecOps
 * [Effective Security Pipeline
 ](https://alex.kaskaso.li/post/effective-security-pipeline)
 
-## Contrib
+## Contribute
 
 Have you seen or read something useful? Add it to this page!
