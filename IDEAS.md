@@ -56,6 +56,8 @@ This is our bread and butter.
 
 **Exfiltrator Detection** - a tool to be deployed in a supposedly secure VPC to detect the mean by which data can be exfiltrated. For example, can we use ICMP, UDP and DNS to exfiltrate data if TCP is blocked. What other TCP ports are allowed, etc.
 
+**GitHub Search** - a tool to search github for intelligence. GitHub is full of useful stuff. Automating the processes for finding useful inteligence on GitHub will be really interesting and could echo great rewards.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
