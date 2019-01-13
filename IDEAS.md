@@ -26,7 +26,7 @@ This is our bread and butter.
   * [ ] **Country/Office lock** - sometimes you need to lock down access to your AWS to specific country/office. This module is supposed to help you set this up.
   * [ ] **Suspicious alarms** - monitor networks for trafic spikes. Setup alarms to help you flag this automatically.
   * [ ] **Killer** - the best type of infrastructure is the one that defends itself. This module will provide features to kill various types of resources such as EC2 instances, Lambda functions, etc. The idea is that you can invoke the killer if you think that the detect event is highlighy suspicious. This could cause some down-time if not configured properly but if properly configured will make your environment super hostile to attack.
-  * [ ] **camouflage** - a lambda edge function to hide the reall application form non-standard user-agents. This will make pentesting so much difficult. We can even detect when sombody is doing something crazy and actively throw them at time-wasting resources.
+  * [ ] **Camouflage** - a lambda edge function to hide the reall application form non-standard user-agents. This will make pentesting so much difficult. We can even detect when sombody is doing something crazy and actively throw them at time-wasting resources.
   * [ ] **Sandbox** - a module to help you setup a proper sandbox environment that gets nuked on scheduled interval. You can use this to test cloud components at minimal cost.
   * [ ] **Bucketeer** - module to help you reserve common s3 buckets and other named resources. Some attackers will park your domains so we need this infrastructure to help mitigate against this.
 
