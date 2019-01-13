@@ -73,3 +73,5 @@ You cannot defense without understanding offensive.
 **Offensive Search** - an elastic search infrastructure for random indexes of data that can be used for offensive and perhaps defensive security. Imagine you are agregating a lot of interesting data but you don't know how to make sense of it. This could be the tool for the job.
 
 **VPN/SSH/Proxy Hopper** - simple container infrastructure to hop into a VPC remotely. This can be used to gain direct access to a well guarded network.
+
+**Infector** - a fully automated tool to propagate on top of cloud environments. This is for demo purposes only. This idea is heavily inspired by [Monkey](https://github.com/guardicore/monkey). The difference is that it should be written in Go instead of python so that it is easier to copy - also better cross-platform. If time allows, rust will be welcome too.
