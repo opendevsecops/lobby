@@ -68,6 +68,8 @@ This is our bread and butter.
 
 **Binaryalert** - like airbnb's binaryalert but without the drama. The idea of automatically detecting malicious files in s3 bucket is pretty generic and something that can be easily done with a bit of automation.
 
+**Lambda Layer** - a lambda layer to provide default security enhancments for serverless functions.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
