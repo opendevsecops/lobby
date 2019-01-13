@@ -85,3 +85,5 @@ You cannot defense without understanding offensive.
 **GPU Cracker** - gpu powered infrastructure for cracking hashes. If you have a dump of hashes, instruct a dynamically instantiated infrastructure to crack it for you. The module could come with some useful limits such as running the infrastructure for no longer than the allocated time before it becomes too costly.
 
 **Colaborator** - when working in teams you need to colaborate. This is meant to setup all necessery resources to provide a suitable environment for sharing and archiving.
+
+**RedBaron** - we copy and improve the RedBaron tool. It looks interesting but I think it needs some improvements that will only make sense for this project.
