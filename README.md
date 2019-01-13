@@ -22,6 +22,7 @@ If you come to this place you are most certainly interested in what we are build
 
 * All solutions are open source and free to use. Download away!
 * You are welcome to do any changes your heart desires. Simply fork the code and make a pull request.
+* Don't understand what this is? Have a look at some of the [ideas](IDEAS.md) we currently have.
 * Join the team and make your own projects. The Slack [channel](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDg5NTAyNzAwNDk3LTBiM2VkMmU5MjllMTNhMTEyMzlmZDJlZGMyNDIzOTQzNzdhOTczODBiOTlhY2RhZDM0NmM4MjE1MTA0MTM0OGI) is a great way to reach us.
 * You have something interesting to say? You can contribute to our [blog](https://github.com/opendevsecops/www).
 * Try to meet to team. We are social beings.
