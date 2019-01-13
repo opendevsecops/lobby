@@ -41,6 +41,16 @@ You can also find us hanging out at the following places:
 * [Twitter](https://twitter.com/opendevsecops)
 * [Slack](https://join.slack.com/t/opendevsecops/shared_invite/enQtNDg5NTAyNzAwNDk3LTBiM2VkMmU5MjllMTNhMTEyMzlmZDJlZGMyNDIzOTQzNzdhOTczODBiOTlhY2RhZDM0NmM4MjE1MTA0MTM0OGI)
 
+
+## Contributors
+
+OpenDevSecOps is not possible without the support of the following advisors and contributors:
+
+### pdp
+
+  * https://pdparchitect.github.io/www/
+  * https://twitter.com/pdp
+
 ## Sponsors
 
 OpenDevSecOps is not possible without the generous sponsorship of the following companies and organisations:
