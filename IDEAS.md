@@ -60,6 +60,8 @@ This is our bread and butter.
 
 **VULNMAN** - cloud ready vulnerability managment solution. Might not be worthed considering that you can manage this from Jira or something similar.
 
+**Discovery Bot** - bot (probably slack) to help you get answers on questions such as what instances they are and so on. This might be suboptimal and not a great security practice but in some situations will be better if it helps reducing access to production envirnments. 
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
