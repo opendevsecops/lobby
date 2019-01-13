@@ -83,3 +83,5 @@ You cannot defense without understanding offensive.
 **Creds Collector** - run a low cost search infrastructure for dumps of previously discloused data breaches. Sometimes it is useful to have that level of intelligence although it is technically crossing the line.
 
 **GPU Cracker** - gpu powered infrastructure for cracking hashes. If you have a dump of hashes, instruct a dynamically instantiated infrastructure to crack it for you. The module could come with some useful limits such as running the infrastructure for no longer than the allocated time before it becomes too costly.
+
+**Colaborator** - when working in teams you need to colaborate. This is meant to setup all necessery resources to provide a suitable environment for sharing and archiving.
