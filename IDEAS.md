@@ -54,6 +54,8 @@ This is our bread and butter.
 
 **AWS Config Rules** - a collection of extended AWS config rules. The more the better.
 
+**Exfiltrator Detection** - a tool to be deployed in a supposedly secure VPC to detect the mean by which data can be exfiltrated. For example, can we use ICMP, UDP and DNS to exfiltrate data if TCP is blocked. What other TCP ports are allowed, etc.
+
 ## Offensive Security
 
 You cannot defense without understanding offensive.
