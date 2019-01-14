@@ -33,6 +33,7 @@ If you come to this place you are most certainly interested in what we are build
 
 We actively contribute to the following repostories:
 
+* [Code Repository](https://github.com/opendevsecops)
 * [Terraform Registry](https://registry.terraform.io/modules/opendevsecops)
 * [Docker Hub](https://hub.docker.com/u/opendevsecops)
 
