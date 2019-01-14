@@ -8,6 +8,7 @@ A curated list of docs, tutorials and other training information about DevSecOps
 
 * [osquery Across the Enterprise
 ](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+* [Securing Docker Containers via Osquery and Kubernetes](https://www.slideshare.net/Uptycs/securing-docker-containers-via-osquery-and-kubernetes)
 
 ## Random
 
