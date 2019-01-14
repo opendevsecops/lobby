@@ -4,7 +4,7 @@
 
 A curated list of docs, tutorials and other training information about DevSecOps.
 
-# Osquery
+## Osquery
 
 * [osquery Across the Enterprise
 ](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
