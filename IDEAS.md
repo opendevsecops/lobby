@@ -11,6 +11,8 @@ We are full of ideas which are not yet executed. **They are free to steal!** But
 
 This is our bread and butter.
 
+**SIEM** - cloud-based SIEM based on common technologies like ElasticSearch. Serious this is going to be a game changer for many organisations. The solution should also come with builtin use-cases.
+
 **CVE search** - define a list of technologies you want to monitor and get notifications (slack, email, sms, etc) when a positive match is found. This will help you get notified of vulnerabilities as soon as they are made official.
 
 **Temp shell** - a fully working remote shell with extra logging. This could be something like xterm.js over websockets. The idea is that the shell will be logging everything to stdout which will respectively get logged in cloudwatch, etc. Additional post processing rules can be used on the logs to do whatever heart desires.
