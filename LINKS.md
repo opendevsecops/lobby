@@ -4,6 +4,11 @@
 
 A curated list of docs, tutorials and other training information about DevSecOps.
 
+# Osquery
+
+* [osquery Across the Enterprise
+](https://medium.com/palantir/osquery-across-the-enterprise-3c3c9d13ec55)
+
 ## Random
 
 * [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
