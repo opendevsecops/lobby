@@ -3,7 +3,7 @@
 
 # OpenDevSecOps
 
-OpenDevSecOps is on a mission to deliver highly-resilient, readily-available and free defensive and offensive devops security solutions to organisations large and small.
+Our mission is to deliver readily-available and security solutions to organizations large and small.
 
 ## Why
 
@@ -11,7 +11,7 @@ Everything that we do is to empower and educate people everywhere so that, toget
 
 ## How
 
-We do this by creating readily-available and free defensive and offensive devops security solutions.
+We do this by creating readily-available and free defensive and offensive devops security solutions using existing and new opendevsecops methodologies.
 
 ## What
 
